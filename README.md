@@ -11,6 +11,5 @@
     -Todo código a partir daqui e separarado da branch main/master
     -Em outro momento os conteúdo ser unido atraves de outro comando
 ## 2-Tipo String
-    -concatenação (+);
-    -Pesquisar template string ou string literal;
-    
+    -concatenação (+).
+    -Pesquisar template string ou string literal.
