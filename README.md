@@ -1,4 +1,4 @@
-# js_back_end_formacao
+# Formação Js Back-end
 
 ## 1-Tipo  Number
     -Divisão por zero é não é um erro em Js, retorna Infinity.
