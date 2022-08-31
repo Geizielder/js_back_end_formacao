@@ -13,3 +13,6 @@
 ## 2-Tipo String
     -concatenação (+).
     -Pesquisar template string ou string literal.
+## 3-Tipo Boolean
+    - === compara (exemplo, se tipo e valor são iguais), retorno true ou false
+    - 
