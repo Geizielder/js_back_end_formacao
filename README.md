@@ -15,4 +15,11 @@
     -Pesquisar template string ou string literal.
 ## 3-Tipo Boolean
     - === compara (exemplo, se tipo e valor são iguais), retorno true ou false
-    - 
+# Declarando variáveis
+
+## var, let e const
+    -var: em js um variavele pode ser usada antes de ser expressamente declarada como   var, porem isso pode causar problemas de repertição de variaves
+    -let: Essa variavel não pode ser usada antes de ser inicializada
+    -const: Valor invariavel durante a execução da aplicação.
+## Mais sobre booleans
+    -
