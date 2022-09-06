@@ -22,4 +22,11 @@
     -let: Essa variavel não pode ser usada antes de ser inicializada
     -const: Valor invariavel durante a execução da aplicação.
 ## Mais sobre booleans
-    -
+    -Tipo boolean retorna basicamente um true ou false. 
+    -Em Js os valores 0 e 1 são considerados respectivamente false e true.
+    -fazer testes com null e undefined.
+    -Null foi criado no JS como objeto.
+
+## Conversão de tipos
+    -Conversão implícita -> permite converter um tipo de dado em outro não é a forma correta de fazer conversão, mas pode acontecer.
+    -Conversão Explícita -> A conversão geralmete se dá por mei de outras funções do JS(ex: Number e String).
