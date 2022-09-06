@@ -22,4 +22,7 @@
     -let: Essa variavel não pode ser usada antes de ser inicializada
     -const: Valor invariavel durante a execução da aplicação.
 ## Mais sobre booleans
-    -
+    -Tipo boolean retorna basicamente um true ou false. 
+    -Em Js os valores 0 e 1 são considerados respectivamente false e true.
+    -fazer testes com null e undefined.
+    -Null foi criado no JS como objeto.
