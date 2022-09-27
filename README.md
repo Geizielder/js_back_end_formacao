@@ -30,3 +30,7 @@
 ## Conversão de tipos
     -Conversão implícita -> permite converter um tipo de dado em outro não é a forma correta de fazer conversão, mas pode acontecer.
     -Conversão Explícita -> A conversão geralmete se dá por mei de outras funções do JS(ex: Number e String).
+
+## Erros
+    -A constate foi declarada, mas nnão inicializada(SyntaxError: Inicializador ausente na declaração
+    -SyntaxError: missing ) após a lista de argumentos
