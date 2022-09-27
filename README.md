@@ -34,3 +34,10 @@
 ## Erros
     -A constate foi declarada, mas nnão inicializada(SyntaxError: Inicializador ausente na declaração
     -SyntaxError: missing ) após a lista de argumentos
+
+## Operadores
+    -Comparação (== comparação implícita) 
+    -Comparação (=== comparação Explícita)
+    -typeof mostra o tipo da variavel
+    -OBS: as boas práticas indicão o uso do === preferencialmente.
+     Para conversão os metodos Explícitos(Number(), String()) são os indicados.
