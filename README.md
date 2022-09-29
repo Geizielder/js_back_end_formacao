@@ -64,3 +64,12 @@
         ```
     - OBS: NO javascript na execução todas as funções e var são lisatda na inicialização.
     - OBS-2: Pesquisar sobre Hoisting
+## Arrow Function 
+    -Exemplo
+        const apresentarArrow = nome => `Meu nome é ${nome}`;
+    
+    -Não pode ser nomeada e no geral vem como valor de uma const
+    -Exitem caso especiais mais a frente no conteúdo
+    -Caso seja necessário mais de uma instrução deve ser colocada as chaves e o return
+    -Hoisting: a Arrow function se comporta com expressão.
+
