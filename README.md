@@ -41,3 +41,7 @@
     -typeof mostra o tipo da variavel
     -OBS: as boas práticas indicão o uso do === preferencialmente.
      Para conversão os metodos Explícitos(Number(), String()) são os indicados.
+## Funções
+    -Função tem dois momentos 
+    -Primeiro: Declarção e o que esse função faz
+    -Segundo: Execução(uma mesma função pode ser executada 1 ou + vezes)
