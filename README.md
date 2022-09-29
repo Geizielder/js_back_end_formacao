@@ -45,3 +45,8 @@
     -Função tem dois momentos 
     -Primeiro: Declarção e o que esse função faz
     -Segundo: Execução(uma mesma função pode ser executada 1 ou + vezes)
+    -Funcões pode ou não receber parametros(exemplo no arquivo parametro.js)
+## Funções(Parâmetros)
+    -Parâmetro x Argumento geralmente são trabalhados como sinonimos na programação os dois tem o encargo de passar valores para dentro de uma função, porem vale uma pequisa mais aprofundada. 
+    -É importante observar que parâmetros obedecem a ordem especificada na chamada.
+    -Uma função que pede dois parametros, mas apenas um e passado retorna erro.
