@@ -50,3 +50,17 @@
     -Parâmetro x Argumento geralmente são trabalhados como sinonimos na programação os dois tem o encargo de passar valores para dentro de uma função, porem vale uma pequisa mais aprofundada. 
     -É importante observar que parâmetros obedecem a ordem especificada na chamada.
     -Uma função que pede dois parametros, mas apenas um e passado retorna erro.
+## Funções(Expressões)
+    - O escopo geral de uma função é:
+        ```
+        function nomeDaFuncao (com ou sem parâmetros) {
+            bloco de código;
+        }
+        ```
+    -Expressão de função
+        -O nome é opicional e geralmente não é usado
+        ```
+        const soma =  function(num1, num2) {return num1 + num2}
+        ```
+    - OBS: NO javascript na execução todas as funções e var são lisatda na inicialização.
+    - OBS-2: Pesquisar sobre Hoisting
