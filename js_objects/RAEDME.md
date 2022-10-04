@@ -1,5 +1,7 @@
-#JavaScript Objestos
+#JavaScript Objetos
+
 ####palavras-chave:objetos-literais, prcorrer-e-alterar-objetos orientação-a-objetos, protótipo-e-herança...
+
 ##O que são objetos
     -Para trabalhar com objetos no JS deve-se ternoção de que todo objetos é formado por uma par chave:valor.
     -Sintax básica de objeto em JS:
@@ -8,6 +10,7 @@
             chave:Numero,
             ...
         }
+        
 ##Acessando Objetos
     -Usando a notação de ponto o objeto é acessado de uma forma muito semelhante ao uso de metodos.
     -Exemplo:
